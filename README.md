@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AI导出鸭](aidcy.png)
+![AI导出鸭](logo.png)
 
 **专业的 AI 内容格式转换工具**
 

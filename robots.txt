@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daochuya.com/sitemap.xml
